@@ -7,6 +7,7 @@
 def print_hi():
     # Use a breakpoint in the code line below to debug your script.
     print('Паша молодец')  # Press Ctrl+F8 to toggle the breakpoint.
+    print('Скоро новый год!')
 
 
 # Press the green button in the gutter to run the script.
